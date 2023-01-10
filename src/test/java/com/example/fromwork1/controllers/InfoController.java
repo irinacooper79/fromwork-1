@@ -1,5 +1,4 @@
 package com.example.fromwork1.controllers;
-
 @RestController
 public class InfoController {
     @GetMapping("/")
